@@ -1,0 +1,46 @@
+
+.App {
+  text-align: center;
+  background-color: whitesmoke;
+  align-items:;
+}
+#profile {
+  border: solid 8px;
+  border-radius: 10%;
+  color: darkslategrey;
+  margin: 2rem;
+  width: 30%;
+  /* height: 8%; */
+}
+h2{
+  /* text-align: center; */
+  color: darkslategrey;
+}
+#landing{
+  margin: 50px;
+  margin-left: 8%;
+  margin-right: 8%;
+}
+
+ul{
+  list-style: none;
+  text-align: left;
+  padding: 0.5rem;
+}
+li{
+  padding:2rem;
+  margin-bottom: 3rem;
+  margin-left: 15%;
+  margin-right: 15%;
+  font-weight: 200;
+  border-style: solid;
+  border-color: darkslategrey;
+  border-width: 6px;
+  border-radius: 10%;
+}
+#link{
+  font-size: 2rem;
+  text-decoration: none;
+  color: darkslategrey;
+  font-weight: 600;
+}
